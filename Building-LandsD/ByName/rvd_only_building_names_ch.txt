@@ -1,0 +1,755 @@
+(A座)
+(B座)
+(C座)
+128 WATERLOO
+13W大樓
+1座 
+208 JOHNSTON
+250 HENNESSY
+28 STANLEY
+28墟
+2座 
+333 HENNESSY
+618上海街
+8 KENNEDY TERRACE
+88WL
+8咪半
+8度海逸酒店
+93 WYS
+99COMMONS
+ALMOND BLOSSOM 
+AMERICAN SCHOOL HONG KONG
+ANNEX BUILDING
+AOFFICE 46
+ARTISAN HUB
+ARTISAN LAB
+AURA ON PENNINGTON
+AVA 128
+AVA 55
+AVA 61
+AVA62
+AVENY
+B HOTEL
+B5 SERVICED APARTMENT
+BANFF 
+BEAK LANE
+BEAK TERRACE
+BELFRAN PEAK
+BELIVING YOUTH HUB
+BLUE DANUBE 
+BONHAM CIRCUS
+BOTANICA BAY HONG KONG
+BOUQUET 
+BUILDING 15A
+BUILDING 17W
+BUILDING 19W
+BUILDING 20E
+BUILDING 22E
+CAMELLIA AVENUE
+CARPARK COMPLEX
+CASTLE ONE BY V
+CEDAR COURT
+CITI TOWER
+CM+ 酒店及服務式公寓
+CM+壹棠酒店及服務式公寓
+COHO
+COURT A
+COURT B
+COURT C
+COURT D
+D2 PLACE 二期
+DASH HOTEL ON MINDEN
+DOWNTOWN 38
+E 酒店
+EASTCORE
+EASTMARK
+EDGE
+EIGHT COLLEGE
+FLAMINGOS 
+FLORA 
+FLORENCE 
+FOCO
+FOUR SEASONS 
+FOYER
+GLOBAL GATEWAY TOWER
+H CODE
+H QUEEN'S
+H ZENTRE
+H34
+HOTEL 108
+I TECH TOWER 2
+INTERNATIONAL COLLEGE HONG KONG
+INTERNATIONAL COLLEGE HONG KONG HONG LOK YUEN 
+IPLACE
+IRISES 
+ISLAND RESIDENCE
+IW CENTRE
+JASMINE AVENUE
+JC TOWER
+JOSEPH WONG & CO. 
+K11 ARTUS
+K11 ATELIER
+K11 ATELIER KING'S ROAD
+K11 MUSEA
+KAZA
+KC100
+KENSINGTON HILL
+KK HOTEL
+KT ONE
+LADDER DUNDAS
+LANE UP
+LIFE@KCC
+LIGHT & SALT HOUSE
+LILY AVENUE
+LITTLE TAI HANG
+LITTLE TAI HANG THE GARDEN HOUSE
+LITTLE TAI HANG THE LANE HOUSE
+LKS PARK STUDIOS
+LL TOWER
+LT TOWER
+LUCERNE 
+M PLACE
+M3
+MADERA HOLLYWOOD
+MADRID 
+MAPLE COURT
+MAPLETREE LOGISTICS CENTRE FANLING
+MEADOWLAND 
+MEGA PLUS
+MILAN 
+MK居停
+MOETOWN
+MONA LISA 
+MONDRIAN HONG KONG
+MONTREAL 
+MOONLIGHT 
+MORNING HAZE 
+MOUNT VIENNA
+MW EASTON
+MW PLAZA
+MW TOWER II
+NEO
+NORD ANGLIA INTERNATIONAL PR E-SCHOOL HONG KONG SAI KUNG
+NORD ANGLIA INTERNATIONAL SCHOOL HK
+NPAC
+OASIS PLACE
+ONE EIGHTY
+ONE HENNESSY
+ONE SKY PARC
+ONE-EIGHT-ONE HOTEL & SERVICED RESIDENCES
+ORCHID
+OSLO 
+OXFORD 
+PAGE 148
+PARK CIRCLE
+PINK ORCHARD 
+PLAZA 88
+PLUMERIA AVENUE
+PORT 33
+PRIMROSES 
+RESIGLOW - BONHAM
+ROYAL GEM
+RUE DU PREMIER
+RUE DU SOMMET
+S.G. DAVIS HOUSE
+SANDALWOOD COURT
+SKYPARK
+SOMPTUEUX AUSTIN
+SOUTH ISLAND PLACE
+STARRY NIGHT 
+STRAND 50
+SUNFLOWER 
+SUNRISE 
+SURFSIDE VILLA 
+SWAN LAKE 
+SWIRE LEADERSHIP CENTRE
+T TOWN NORTH
+T TOWN SOUTH
+T.O.P THIS IS OUR PLACE
+TAVISTOCK 
+THE ABERDEEN BY DASH LIVING
+THE ASTER
+THE CONNAUGHT
+THE FOREST
+THE GRAMPIAN
+THE GRAND BLOSSOM
+THE HARI HONG KONG
+THE HUB
+THE LOHAS 康城
+THE LUNA
+THE MERCURY
+THE NATE
+THE OZONE
+THE PARKVILLE
+THE PIER HOTEL
+THE PLATINUM HOLLYWOOD
+THE RICHMOND
+THE SHARP
+THE STEPS ． H CODE
+THE UNIT SERVICED APARTMENTS
+TKO SPOT
+TLP 132
+TOWER 535
+TOWNPLACE SOHO
+TS TOWER
+TUEN MUN PUBLIC CARGO WORKING AREA
+TWO HARBOUR SQUARE
+TWO SKY PARC
+UPPER CENTRAL
+URBANWOOD HOTELS & RESIDENCES
+V WALK
+VC HOUSE
+VENICE 
+VIENNA 
+VIOLET AVENUE
+VISION 
+VIVA
+VPOINT
+VTC DORMITORY
+W LUXE
+W212
+W668
+WATER LILIES 
+WATERSIDE
+WE GO MALL
+WEAVE RESIDENCES - ROBINSON
+WEAVE RESIDENCES MID-LEVELS
+WHISTLER 
+WHITE YARD GALLERY
+WITH THE STAR
+WM HOTEL
+Y83
+ZION APARTMENTS
+上酒店
+中區街坊福利會
+中商藝術大廈
+中國人壽中心
+中座
+中環‧石板街酒店
+中華基督教會
+中華基督教禮賢會九龍堂
+中華製漆大廈
+主座大樓
+主教座堂中心
+九龍中心大廈
+九龍佑寧堂
+九龍城浸信會禧年
+九龍彩鴻酒店
+京瑞廣場1期
+伯惠酒店九龍
+佛洛斯大道
+佰惠酒店
+佳宝22
+依麗小築
+俊滙閣
+保良局王賜豪
+保良局賽馬會北潭涌度假營
+保良局香港道教聯合會圓玄小學
+保誠保險大樓
+停車塲C
+儷賀酒店
+元創方
+元朗公立中學校友會鄧英業小學
+元朗寶覺小學
+元朗文化康樂大樓元朗體育館
+兆恆閣
+入境事務處西九龍辦事處及九龍出生登記處
+八福匯
+公共交通交匯處
+冠華鏡廠
+凱旭閣 
+凱曈閣 
+凱碧閣 
+凱莎閣 
+凱葶閣 
+利·港灣18
+利國偉教學大樓
+利奧坊
+利東街
+利銘澤堂、利希慎堂及何善衡夫人堂
+創協坊
+創知中學
+勝利道1號
+北角
+北角M1酒店
+北面公共運輸交匯處
+匯富坊 
+匯賢一號.雋峰
+匯賢一號．雋朗
+匯邦集團大廈
+南豐紗廠
+南里壹號
+南面公共運輸交匯處
+又德閣
+可信小學 
+可風中學
+合興新邨
+君譽峰
+呂君博
+和亨閣
+和健閣
+和均閣
+和富
+和悅閣
+和記商場
+和誠閣
+和通閣
+和黃物流中心 
+問月酒店
+啟勳閣
+啟安閣
+啟宏閣
+啟康閣
+啟德工廠大廈
+啟東閣
+啟蒙創新幼稚園
+啟邦閣
+啟雋閣
+喜‧揚
+喜慶樓
+喜薈商場
+嘉匯
+嘉慶中心
+嘉湖
+嘉諾撒聖方濟各書院
+嘉賦酒店
+嘉里
+嘉里貨倉
+嘉里貨倉 
+嘉里鴻基貨倉
+四季滙
+地利亞
+地利亞修女紀念學校/ 地利亞
+培華園
+基督教勵行會賽馬會服務大樓
+壹號總站
+多多國際幼稚園
+大埔綜合大樓大埔公共圖書館
+大埔藝術中心
+大鴻輝
+天一商城
+天光道網球場
+天德聖教蕭始佛堂安老院
+天晉匯 2
+天晉滙
+天水圍
+天水圍社區運動場
+天海匯
+天鑽匯
+太古灣道12號
+太子閣
+奕居
+奧華酒店-南岸
+如心廣場二期
+孔教學院三樂周桅學校
+安泰商場
+安達商場（北翼）
+安達商場（南翼）
+宏仁閣
+宏利大樓
+宏利廣場
+定園
+宣道國際學校
+家維商場
+富祐閣 又一新城
+富薈尚乘上環酒店
+富衛 1881 公館
+富豪薈酒店
+寓‧弍捌
+寶源
+尖沙咀皇悅卓越酒店
+屏山天水圍公共圖書館
+屯門兆麟政府綜合大樓兆麟體育館
+屯門單車匯合中心
+屯門游泳池
+屯門游泳池壁球場
+屯門長期護理院
+嶺南幼兒園及幼稚園
+常寧遊樂場
+平台多層停車埸
+平房
+年豐
+庭峰閣
+康怡中英文幼稚園
+康怡廣場
+廣華樓
+建業街熟食市場
+建生商場停車場
+彗鑽匯
+彩明公共交通交匯處
+影岸‧紅A座
+影岸‧紅B座
+御‧豪門
+德昌廣場
+德望小學暨幼稚園
+德福廣場戲院
+德興園
+德萃小學
+德輔道中308號
+德輔道中心
+思悅園
+怡安閣
+恆心閣
+恒信園
+恒山樓
+恒峰樓
+恒日樓
+恒星樓
+恒月樓
+恒江樓
+恒泰閣
+恒海樓
+悅品天秀酒店.元朗
+悅品度假酒店.屯門
+悅品海景酒店.觀塘
+悅品酒店.荃灣
+愉揚閣
+愛定商場A區
+愛定商場D區
+愛定商場H區
+愛定商場N區
+愛定商場S區
+愛得甫酒店
+慈正商場
+慈雲山
+慎德園
+慶渠園
+招商局物流中心
+挪亞方舟
+政府服務中心
+救世軍中原善基金學校
+教學及科研大樓
+敬志樓
+文咸西街71號
+文物徑二號文物小白屋
+文理書院 
+斑蝶樓
+新屋仔村公所
+新港城中心大街
+新鴻基物流中心
+日漣天
+日鑽匯
+日間診療大樓暨兒童病房
+旭逸酒店 . 荃灣
+旭逸酒店 ‧ 旺角
+旭逸雅捷酒店 ‧ 荃灣
+昂運路泵房臨時變電站
+昇御商場
+明愛賽馬會荃灣服務樓
+明蓉
+星凱?堤岸第一座
+星凱?堤岸第三座
+星凱?堤岸第二座
+星凱?堤岸第五座
+星寰匯
+星鑽匯
+時捷集團大廈
+晉海第３Ａ座
+晉海第３Ｂ座
+晉海第５Ａ座
+晉海第５Ｂ座
+晉逸蘭桂坊精品酒店中環
+普淨園
+曉寓
+曾璧山
+最佳盛品酒店尖沙咀
+月漣天
+月鑽匯
+本部大樓 馮平山樓孔慶熒樓及圖書館大樓
+李兆基綜合大樓
+東方傳媒中心
+東涌北公園
+東灣莫羅瑞華學校及宿舍
+東莞同鄉總會新田古洞分會
+東華三院曾憲備小學
+東角中心
+東豐
+東隅服務式住宅
+柏景閣
+梁文燕紀念中學
+楊宅
+榮欣閣
+樂富街市
+樂恒苑
+樂華北邨
+樑慶樓
+樹林銀座
+樹珍樓
+歌和老街公園
+歡欣閣
+比高樂國際幼稚園
+水中天
+水藍‧天岸
+沙田市中心
+沙田通訊及科技大樓
+泓景
+泰盛商業
+洛蔓大道
+活託邦 西環
+海之戀．愛炫美
+海天晉滙
+海姸閣
+海漣天
+海璇匯
+海粵樓
+海輝道海濱花園
+海鑽匯
+港島東廢物轉運站
+港怡醫院
+港灣學校
+港鐵錦田大樓
+源禾遊樂場
+漁進樓
+潮流廊一期
+潮流廊二期
+灣仔八十八
+灣景薈
+物業處大樓
+獨立單位2號
+珀御
+瑞生尖沙咀酒店
+瑞蓮
+瑩苑
+瑪利諾修院學校
+環保園EP11-01
+環球商場
+田灣邨長者住屋 
+登發大廈地皇廣場
+百利酒店
+百周年校園鄭裕彤教學樓 逸夫教學樓及賽馬會教學樓
+百樂酒店首都廣場
+皇后大道中心
+皇子大廈
+皇子薈
+皇鑽匯
+益大工業大厦
+眀徳山
+研究院綜合大樓
+社會服務大樓
+祖堯坊A座
+祖堯坊B座
+神召會德萃書院
+祥祺中心
+福群大樓
+簡悅酒店.太子
+米萊諾大道
+約克英文小學暨幼稚園
+紅磡市立殯儀館
+綠匯學苑
+維園118酒店
+維納大廈
+美山樓及美虹樓
+美斯酒店
+美麗華廣場A座
+美麗華廣場一期
+美麗華廣場二期
+美麗華酒店美麗華廣場
+翠園大樓
+翠瑜閣
+翠鳴臺
+翩滙坊
+耀蔭樓(第4座)及德蔭樓
+聖三一堂小學
+聖公會主愛小學 
+聖公會聖十架小學
+聖公會聖約翰曾肇添小學
+聖博德天主教小學
+聖士提反書院 COLLEGE HOUSE
+聖安德烈堂
+聖德蘭幼稚園
+聖雅各福群會賽馬會社會服務大樓
+聚學樓
+聯發新樓/聯安新樓
+職業訓練局學生舍堂 
+職業訓練局馬鞍山大樓
+聽濤
+臨床服務大樓
+興華街西遊樂場
+船灣陳屋村公所
+艷芳庭
+艾蒙特國際幼稚園
+芝加哥大學袁天凡、慧敏校園
+芝竹蘆 
+英基學校協會港島中學
+英皇荷里活中心
+英皇道1111號
+荔枝窩地質教育中心
+荔枝角公園
+荔釆閣
+莊月明化學樓及莊月明物理樓
+莎瑪港島北
+華富
+華懋中心II期
+華懋中心I期
+華欣樓
+華潤物流上水貨倉
+華麗銅鑼灣酒店
+萊恩幼稚園
+萬有引力
+萬鈞伯裘書院
+葵逸閣
+蓮坤苑
+蔭恆樓
+薄扶林公衆騎術學校
+薈蕎 1翼
+薈蕎 2翼
+薈麗酒店
+藍田
+藝術公園
+藝術展亭
+藝里坊．1號
+藝里坊．2號
+蘇屋社區綜合服務大樓
+虎豹樂圃
+衛斯理大樓
+裘錦秋中學
+西九龍法院大樓
+西座
+西班牙小學
+觀塘海濱花園
+誠信中心
+譽‧東
+豐樹青衣物流中心
+賢景閣
+賽馬會傑志中心
+賽馬會善寧之家
+賽馬會學生宿舍
+賽馬會懷愛樓
+賽馬會明心樓
+賽馬會第一舍堂村何東夫人紀念堂、施德堂及何添堂
+賽馬會第二舍堂村馬禮遜堂、孫志新堂及李兆基堂
+賽馬會萬鈞毅智書院
+賽馬會香港足球總會足球訓練中心
+賽馬會鯉魚門創意館
+赤柱海濱小賣亭
+路德會聖馬太學校
+迷你酒店（中環）
+逸瓏坊
+都會城邸 1
+都會城邸 2
+都滙東
+金--花園Ａ座
+金--花園Ｂ座
+金--花園Ｃ座
+金--花園Ｅ座
+金芳閣
+銀座38
+銅璵
+銅鑼灣皇悅卓越酒店
+鐘英大厦
+長沙政府渡假別墅九號別墅
+長沙政府渡假別墅八號別墅
+長沙政府渡假別墅六號別墅
+長發廣場青衣市場
+閩光書院幼稚園部
+陳瑞祺
+隔田村村公所
+雋庭
+雋琚
+雲浦居
+雲浮仙觀
+雲端　ＡＰＥＸ　１　座
+雲端　ＡＰＥＸ　２　座
+雲端　ＡＰＥＸ　３　座
+青山魚類批發市場
+青年學院
+青松安老院
+青松觀道政府宿舍
+青衣城2
+青衣西南康體大樓青衣西南游泳池
+青衣西南康體大樓青衣西南體育館
+頌善閣  
+養和東區醫療中心李樹芳樓
+香檳大廈
+香港 ISSF 氣槍射擊中心
+香港中旅協記貨倉有限公司
+香港九龍CBD2智選假日酒店
+香港嘉里酒店
+香港國際機場 中場客運廊
+香港國際機場 北衛星客運廊
+香港國際機場機場商業大樓
+香港國際蒙特梭利學校
+香港城市大學學術樓
+香港基督教服務處培愛學校
+香港墨爾文國際學校
+香港專業教育學院
+香港專業教育學院 
+香港思貝禮國際學校
+香港恒生大學賽馬會住宿書院
+香港摩天輪
+香港旺角希爾頓花園酒店
+香港旺角智選假日酒店
+香港東涌世茂喜來登及福朋喜來登酒店
+香港海洋公園萬豪酒店
+香港浸信教會-恩典樓
+香港港安醫院 - 荃灣
+香港珀麗酒店
+香港理工大學紅磡灣校園
+香港瑞吉酒店
+香港盲人輔導會工廠-宿舍
+香港知專設計學院及香港專業教育學院
+香港童軍總會鑽禧館
+香港紅十字會總部
+香港維港凱悅尚萃酒店
+香港美利酒店
+香港聖公會聖三一堂
+香港諾富特世紀酒店
+香港遊樂場協會賽馬會銀礦灣營
+香港都會大學賽馬會校園
+香港青年協會青年宿舍PH2
+香港青年協會領袖學院
+馬頭圍配水庫遊樂場
+高山18
+高爾夫．皇殿別墅
+高級職員宿舍
+鳳池園
+鳳溪第一小學 附屬小學
+鴻圖道52號
+鴻翔中心
+麗城
+麗富酒店
+麗恆閣
+黃大仙中心南館A停車場
+龍鼓灘發電廠
+孚商廈
+ＳＴ．ＧＥＯＲＧＥ＇Ｓ　ＭＡＮＳＩＯＮ　第一座
+ＳＴ．ＧＥＯＲＧＥ＇Ｓ　ＭＡＮＳＩＯＮＳ　第三座
+ＳＴ．ＧＥＯＲＧＥ＇Ｓ　ＭＡＮＳＩＯＮＳ　第二座
+ＴＨＥ　ＭＩＬＬＥＮＮＩＴＹ　第一座
+ＴＨＥ　ＭＩＬＬＥＮＮＩＴＹ　第二座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ會所
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第１座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第２座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第３座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第５座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第６座
+ＴＨＥ　ＹＯＨＯ　ＨＵＢ第８座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅１
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅１０
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅１１
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅３
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅５
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅６
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅７
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅８
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ別墅９
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房１
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房１０
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房１１
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房２
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房３
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房５
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房６
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房７
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房８
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ洋房９
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第１座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第１０座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第１１座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第１２座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第１９座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第３座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第５座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第７座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第８座
+ＷＥＴＬＡＮＤ　ＳＥＡＳＯＮＳ　ＰＡＲＫ第９座
